@@ -17,6 +17,8 @@ Nó bao gồm
 pip install -r requirement.txt
 ```
 ## Cách sử dụng
+- Trong folder Evolutionary_Computing tạo 3 folder mới có tên 'dataDouble', 'dataDQN', 'dataDueling'
+
 - Chạy file Simulation.py để sử dụng soCoM trong môi trường mô phỏng MEC
 
 - Nếu muốn thay đổi số user equipment, thay đổi biến 'UN' trong file soCoM.py
