@@ -1,0 +1,4 @@
+tensorflow==1.0.0
+simpy
+matplotlib
+numpy
