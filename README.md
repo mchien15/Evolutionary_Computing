@@ -23,6 +23,6 @@ pip install -r requirement.txt
 
 - Nếu muốn thay đổi số user equipment, thay đổi biến 'UN' trong file soCoM.py
 
-- Nếu muốn sử dụng các thuật toán khác, thay đổi phần import các package trong file OFFLOAD.py và uncomment biến 'MODEL_USED' trong file soCoM.py
+- Nếu muốn sử dụng các thuật toán khác, thay đổi phần import các package trong file OFFLOAD.py và uncomment biến 'MODEL_USED' trong file soCoM.py ứng với thuật toán được sử dụng
 
 - Sau khi chạy với một số số user equipment khác nhau, có thể chạy file draw.ipynb để vẽ biểu đồ
